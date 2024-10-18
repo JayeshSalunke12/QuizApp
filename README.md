@@ -1,4 +1,4 @@
-# Quiz App 🎓
+# Quiz App DeplDeployment🎓
 
 A dynamic and user-friendly Quiz React Application that showcases seamless authentication powered by **AWS Amplify** and **Amazon Cognito**, along with a CI/CD pipeline integration for automated deployments!
 
